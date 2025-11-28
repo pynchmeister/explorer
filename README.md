@@ -1,6 +1,6 @@
 ## 🔍 Contributions to Modular Cloud Explorer
 
-As a contributor to ModularCloud Explorer, I worked across backend services, documentation, feature upgrades, and overall codebase cleanup. My focus was on improving network support, simplifying architecture, and enhancing developer-facing functionality.
+As a contributor to Modular Cloud's Explorer, I worked across backend services, documentation, feature upgrades, and overall codebase cleanup. My focus was on improving network support, simplifying architecture, and enhancing developer-facing functionality.
 
 ### 🛠 Key Contributions
 
